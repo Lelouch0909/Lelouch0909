@@ -7,5 +7,4 @@ Visit my portfolio to fullstackhermann.site
 I’m looking to collaborate on any project allowing me to grow in experience
 to reach me : lontsihermann@fullstackhermann.site  or https://www.linkedin.com/in/hermann-lontsi
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lelouch0909)](https://github.com/ryo-ma/github-profile-trophy)
+[![Lelouch0909's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lelouch0909)](https://github.com/anuraghazra/github-readme-stats)
